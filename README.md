@@ -28,6 +28,6 @@ class SoftSkills extends Developer {
     adaptability  = ['Fast Learning', 'Handling Change', 'Resilience'];
     management    = ['Task Prioritization', 'Problem-Solving', 'Work-Life Balance'];
     methodologies = ['Agile', 'Scrum', 'Kanban'];
-    languages     = ['English', 'Ukrainian', 'Russian'];
+    languages     = ['English', 'Ukrainian', 'Russian', 'German'];
 }
 ```
