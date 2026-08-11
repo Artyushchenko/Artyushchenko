@@ -1,9 +1,5 @@
 <p align="center">
-    <img alt="K.A." height=150 width=250 src="https://goo.su/Kzta7" />
-</p>
-
-<p align="center"> 
-    <img src="https://profile-counter.glitch.me/Artyushchenko/count.svg" />
+    <img alt="Success GIF" height=216 width=250 src="https://goo.su/mCuirn" />
 </p>
 
 ```js
@@ -20,7 +16,8 @@ class HardSkills extends Developer {
     languages  = ['JavaScript', 'TypeScript', 'C', 'C++', 'C#', 'PHP'];
     databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
     frameworks = ['React', 'Angular', 'Vue', 'Laravel', 'Next.js', 'Nest.js', 'Nuxt.js', 'Tailwind CSS'];
-    tools      = ['Git', 'Docker', 'Vite', 'ESLint', 'Prettier'];
+    tools      = ['Git', 'GitLab', 'Docker'];
+    design     = ['Figma', 'Photoshop', 'Canva'];
 }
 
 class SoftSkills extends Developer {
